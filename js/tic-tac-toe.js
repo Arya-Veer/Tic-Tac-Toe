@@ -1,12 +1,4 @@
-/**
- * Tic Tac Toe
- *
- * A Tic Tac Toe game in HTML/JavaScript/CSS.
- *
- * No dependencies - Uses Vanilla JS
- *
- * @author: Vasanth Krishnamoorthy
- */
+
 var N_SIZE = 3,
   EMPTY = '&nbsp;',
   boxes = [],
